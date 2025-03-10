@@ -19,6 +19,10 @@
   position: relative;
 }
 
+ .header__decorate__item {
+  display: none;
+}
+
 .decorated-zone::before,
 .decorated-zone::after {
   content: '';

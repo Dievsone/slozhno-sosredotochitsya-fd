@@ -1,7 +1,7 @@
 :root.theme-light {
   --background__image:url(../images/cover-image-light.png);
-  --background-color:#FFC2E6;
-  --title-color:#FFC2E6;
+  --background-color:#FFEEF6;
+  --title-color:#353430;
   --accent-color:#FF8DCB;
   --accent-tittle-color:#353430;
   --outline-accent-color:#353430;
@@ -11,8 +11,8 @@
 @media (prefers-color-scheme: light) {
   :root {
   --background__image:url(../images/cover-image-light.png);
-  --title-color:#FFC2E6;
-  --background-color:#FFC2E6;
+  --title-color:#353430;
+  --background-color:#FFEEF6;
   --accent-color:#FF8DCB;
   --accent-tittle-color:#353430;
   --outline-accent-color:#353430;

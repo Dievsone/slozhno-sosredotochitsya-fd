@@ -19,6 +19,11 @@
   position: relative;
 }
 
+.theme-dark .header__decorate__item {
+  display: block;
+}
+
+
 .header__decorate__item {
   position: absolute;
   top: 11px;
