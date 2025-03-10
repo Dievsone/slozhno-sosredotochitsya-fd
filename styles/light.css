@@ -12,6 +12,7 @@
   :root {
   --background__image:url(../images/cover-image-light.png);
   --title-color:#FFC2E6;
+  --background-color:#FFC2E6;
   --accent-color:#FF8DCB;
   --accent-tittle-color:#353430;
   --outline-accent-color:#353430;
