@@ -39,7 +39,7 @@
   outline:1px solid var(--outline-accent-color) ;
 }
 
-@media (width >= 1024px) {
+@media (width >= 768px) {
   .header__decorate__item {
     top: 21px;
     right: 18px;
