@@ -6,6 +6,7 @@
   --accent-tittle-color:#353430;
   --outline-accent-color:#353430;
   --accent-paragraf-color:#353430;
+  --accent-btn-hover-color:#353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -17,6 +18,7 @@
   --accent-tittle-color:#353430;
   --outline-accent-color:#353430;
   --accent-paragraf-color:#353430;
+  --accent-btn-hover-color:#353430;
   }
 }
 
