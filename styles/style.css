@@ -125,6 +125,11 @@
 
 .main__text_container h3 {
   font-size: 18px;
+  font-weight: 400;
+}
+
+.main__text_container h4 {
+  font-size: 18px;
 }
 
 .main__text_container div {
