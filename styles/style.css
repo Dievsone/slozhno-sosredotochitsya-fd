@@ -8,7 +8,7 @@
 
 .title-color {
   background-color: var(--accent-color);
-  color: var(--accent-tittle-color);
+  color: var(--accent-pre-title-color);
 }
 
 .header {
@@ -39,10 +39,6 @@
 
 .header__theme-menu-button_active {
   outline: 1px solid var(--outline-accent-color);
-}
-
-.header__decorate__item {
-  display: none;
 }
 
 .decorated-zone::before,
@@ -104,7 +100,7 @@
   display: block;
   font-size: 18px;
   line-height: 1.3;
-  color: var(--accent-tittle-color);
+  color: var(--accent-pre-title-color);
 }
 
 .header .grid-item:nth-child(3) {
@@ -144,7 +140,7 @@
 }
 
 .main__text_container .accent-font-collor {
-  color: var(--accent-tittle-color);
+  color: var(--accent-pre-title-color);
   margin-block-start: 22px;
 }
 
@@ -163,7 +159,7 @@
 .gallery h2 {
   font-size: 18px;
   font-weight: bold;
-  color: var(--accent-tittle-color);
+  color: var(--accent-pre-title-color);
 }
 
 .footer {
