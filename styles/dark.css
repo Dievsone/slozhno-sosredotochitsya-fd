@@ -24,29 +24,3 @@
 }
 
 
-.header__decorate__item {
-  position: absolute;
-  top: 11px;
-  right: 10px;
-  font-size: 18px;
-  padding-right: 10px;
-  color: var(--accent-color);
-}
-
-.header__decorate__item::after {
-  content:'●';
-  color: #FF0070;
-  text-shadow: 0px 0px 4px #FF0070;
-  padding-left: 10px;
-}
-
-.header__theme-menu-button_active {
-  outline:1px solid var(--outline-accent-color) ;
-}
-
-@media (width >= 768px) {
-  .header__decorate__item {
-    top: 21px;
-    right: 18px;
-  }
-}
