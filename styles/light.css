@@ -1,35 +1,37 @@
 :root.theme-light {
-  --background-image:url(../images/cover-image-light.png);
-  --background-color:#FFEEF6;
-  --title-color:#FFC2E6;
-  --accent-color:#FF8DCB;
-  --accent-button-color:#353430;
-  --accent-tittle-color:#353430;
-  --outline-accent-color:#353430;
-  --accent-paragraf-color:#353430;
-  --accent-btn-hover-color:#35343066;
-  --accent-btn-focus-color:#353430;
-  --header-decorate-item-variant:none;
-  --accemt-decorate-zone-color:#353430;
-  --accent-hover-href-color:#353430;
-  --accent-focus-href-color:#353430;
+  --background-image: url(../images/cover-image-light.png);
+  --background-color: #ffeef6;
+  --title-color: #ffc2e6;
+  --accent-color: #ff8dcb;
+  --accent-button-color: #353430;
+  --accent-tittle-color: #353430;
+  --outline-accent-color: #353430;
+  --accent-paragraf-color: #353430;
+  --accent-pre-title-color: #353430;
+  --accent-btn-hover-color: #35343066;
+  --accent-btn-focus-color: #353430;
+  --header-decorate-item-variant: none;
+  --accemt-decorate-zone-color: #353430;
+  --accent-hover-href-color: #353430;
+  --accent-focus-href-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-  --background-image:url(../images/cover-image-light.png);
-  --title-color:#FFC2E6;
-  --background-color:#FFEEF6;
-  --accent-color:#FF8DCB;
-  --accent-button-color:#353430;
-  --accent-tittle-color:#353430;
-  --outline-accent-color:#353430;
-  --accent-paragraf-color:#353430;
-  --accent-btn-hover-color:#35343066;
-  --accent-btn-focus-color:#353430;
-  --header-decorate-item-variant:none;
-  --accemt-decorate-zone-color:#353430;
-  --accent-hover-href-color:#353430;
+      --background-image: url(../images/cover-image-light.png);
+      --title-color: #ffc2e6;
+      --background-color: #ffeef6;
+      --accent-color: #ff8dcb;
+      --accent-button-color: #353430;
+      --accent-tittle-color: #353430;
+      --accent-pre-title-color: #353430;
+      --outline-accent-color: #353430;
+      --accent-paragraf-color: #353430;
+      --accent-btn-hover-color: #35343066;
+      --accent-btn-focus-color: #353430;
+      --header-decorate-item-variant: none;
+      --accemt-decorate-zone-color: #353430;
+      --accent-hover-href-color: #353430;
+      --accent-focus-href-color: #353430;
   }
 }
-

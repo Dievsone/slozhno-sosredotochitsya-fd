@@ -5,25 +5,24 @@
 */
 
 :root.theme-dark {
-    --background-color:#000028;
-    --title-color:#DB00FF;
-    --accent-color:#FF0070;
-    --accent-tittle-color:#FF0070;
-    --accent-button-color:#FF0070;
-    --accent-pre-title-color:#000028;
-    --outline-accent-color:#FF0070;
-    --accent-paragraf-color:#F1B2CE;
-    --accent-btn-hover-color:#FF007066;
-    --accent-btn-focus-color:#FF0070;
-    --background-image:url(../images/cover-image-dark.png);
-    --header-decorate-item-variant:block;
-    --accemt-decorate-zone-color:#FF0070;
-    --accent-hover-href-color:#F1B2CE;
-    --accent-focus-href-color:#F1B2CE;
+  --background-color: #000028;
+  --title-color: #db00ff;
+  --accent-color: #ff0070;
+  --accent-tittle-color: #ff0070;
+  --accent-button-color: #ff0070;
+  --accent-pre-title-color: #000028;
+  --outline-accent-color: #ff0070;
+  --accent-paragraf-color: #f1b2ce;
+  --accent-btn-hover-color: #ff007066;
+  --accent-btn-focus-color: #ff0070;
+  --background-image: url(../images/cover-image-dark.png);
+  --header-decorate-item-variant: block;
+  --accemt-decorate-zone-color: #ff0070;
+  --accent-hover-href-color: #f1b2ce;
+  --accent-focus-href-color: #f1b2ce;
 }
 
 .theme-dark .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
   position: relative;
 }
-

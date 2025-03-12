@@ -224,7 +224,6 @@
 @media (width >= 768px) {
   .header {
       grid-template-columns: 1fr 1fr;
-      height: 100vh;
       padding: 0 20px 0 0;
   }
 
@@ -361,10 +360,6 @@
   .gallery .grid-item:nth-child(6) {
       grid-column: 2 / span 2;
       grid-row: 4;
-  }
-
-  .footer__title {
-      margin-block-start: 180px;
   }
 }
 
