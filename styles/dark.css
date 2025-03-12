@@ -11,18 +11,14 @@
     --accent-tittle-color:#FF0070;
     --accent-pre-title-color:#000028;
     --outline-accent-color:#FF0070;
-    --accent-p-color:#F1B2CE;
+    --accent-paragraf-color:#F1B2CE;
     --accent-btn-hover-color:#FF0070;
-    --background__image:url(../images/cover-image-dark.png);
+    --background-image:url(../images/cover-image-dark.png);
+    --header-decorate-item-variant:block;
 }
 
 .theme-dark .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
   position: relative;
 }
-
-.theme-dark .header__decorate__item {
-  display: block;
-}
-
 

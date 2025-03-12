@@ -7,6 +7,7 @@
   --outline-accent-color:#353430;
   --accent-paragraf-color:#353430;
   --accent-btn-hover-color:#353430;
+  --header-decorate-item-variant:none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -19,9 +20,7 @@
   --outline-accent-color:#353430;
   --accent-paragraf-color:#353430;
   --accent-btn-hover-color:#353430;
-  }
+  --header-decorate-item-variant:none;
+  }  
 }
 
-.theme-light .header__decorate__item {
-  display: none;
-}
