@@ -8,9 +8,16 @@
 --title-color:#DB00FF;
 --accent-color:#FF0070;
 --accent-tittle-color:#FF0070;
+--accent-button-color:#FF0070;
 --accent-pre-title-color:#000028;
 --outline-accent-color:#FF0070;
 --accent-paragraf-color:#F1B2CE;
---accent-btn-hover-color:#FF0070;
+--accent-btn-hover-color:#FF007066;
+--accent-btn-focus-color:#FF0070;
 --header-decorate-item-variant:block;
+--font-weight-variant1:regular;
+--font-weight-variant2:bold;
+--accemt-decorate-zone-color:#FF0070;
+--accent-hover-href-color:#F1B2CE;
+--accent-focus-href-color:#F1B2CE;
 }

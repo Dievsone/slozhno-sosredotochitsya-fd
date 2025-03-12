@@ -9,12 +9,17 @@
     --title-color:#DB00FF;
     --accent-color:#FF0070;
     --accent-tittle-color:#FF0070;
+    --accent-button-color:#FF0070;
     --accent-pre-title-color:#000028;
     --outline-accent-color:#FF0070;
     --accent-paragraf-color:#F1B2CE;
-    --accent-btn-hover-color:#FF0070;
+    --accent-btn-hover-color:#FF007066;
+    --accent-btn-focus-color:#FF0070;
     --background-image:url(../images/cover-image-dark.png);
     --header-decorate-item-variant:block;
+    --accemt-decorate-zone-color:#FF0070;
+    --accent-hover-href-color:#F1B2CE;
+    --accent-focus-href-color:#F1B2CE;
 }
 
 .theme-dark .page {
